@@ -63,3 +63,5 @@
 
 ## License
 Licensed under [Raphielscape Public License](https://github.com/meareyou/lel_remake_UseBoto/blob/x-sql-extended/LICENSE) - Version 1.d, February 2020
+
+<p align="center"><a href="https://t.me/Crypto08"> <img src="https://img.shields.io/badge/Sang%20Editod%20Berkentod-blue?style=flat&logo=telegram" width="310" height="34.45" /></a></p>
